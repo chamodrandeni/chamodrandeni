@@ -1,12 +1,12 @@
 # Hi there! 👋 I'm Chamod Dushyantha Randeni
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7A41D&width=435&lines=Full-Stack+Software+Engineer;Web+Developer;Open-Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7A41D&width=600&lines=Full-Stack+Software+Engineer;Web+Developer;Open-Source+Enthusiast" alt="Typing SVG" />
 </p>
 
 ## 🚀 Full-Stack Software Engineer | Web Developer | Open-Source Enthusiast
 
-I am a passionate Full-Stack Software Engineer with extensive experience in developing scalable enterprise applications. My expertise spans across various front-end and back-end technologies, containerization, and version control. I love solving complex problems and building user-friendly web applications.
+I am a passionate Full-Stack Software Engineer with extensive experience in developing scalable enterprise applications. My expertise spans various front-end and back-end technologies, containerization, and version control. I love solving complex problems and building user-friendly web applications.
 
 ---
 
@@ -20,23 +20,16 @@ I am a passionate Full-Stack Software Engineer with extensive experience in deve
 
 ### 🛠️ Tech Stack:
 
-#### 👨‍💻 Programming Languages:
-- PHP | Python | Java
-
-#### 🏗️ Frameworks & Libraries:
-- Laravel | Next.js | React
-
-#### 🌐 Web Development:
-- HTML5 | CSS3 | JavaScript | jQuery | Tailwind CSS | Bootstrap | WordPress
-
-#### 🗄️ Databases:
-- MySQL | PostgreSQL
-
-#### 💻 Operating Systems:
-- Ubuntu | Fedora
-
-#### ⚙️ Tools & Technologies:
-- Docker | GitHub | Postman | FileZilla | Photoshop | Canva
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ---
 
@@ -74,4 +67,3 @@ I am a passionate Full-Stack Software Engineer with extensive experience in deve
 </p>
 
 🚀 Let's build something amazing together!
-
