@@ -1,10 +1,8 @@
 # Hi there! 👋 I'm Chamod Dushyantha Randeni
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7A41D&width=600&lines=Full-Stack+Software+Engineer;Web+Developer;Open-Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7A41D&width=600&lines=Full-Stack+Software+Engineer;Web+Developer;" alt="Typing SVG" />
 </p>
-
-## 🚀 Full-Stack Software Engineer | Web Developer | Open-Source Enthusiast
 
 I am a passionate Full-Stack Software Engineer with extensive experience in developing scalable enterprise applications. My expertise spans various front-end and back-end technologies, containerization, and version control. I love solving complex problems and building user-friendly web applications.
 
@@ -30,34 +28,6 @@ I am a passionate Full-Stack Software Engineer with extensive experience in deve
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
-
----
-
-### 🔥 Work Experience:
-#### Full-Stack Software Engineer @ **Technovity FZC-LLC**
-- Built and maintained a Laravel API for secure and efficient data handling
-- Developed the frontend using **Next.js**, ensuring a dynamic and user-friendly interface
-- Utilized **Redux** for state management and **Tailwind CSS** for styling
-- Managed version control with **GitHub** and containerized environments with **Docker**
-
-#### Full-Stack Web Developer @ **Enspirer Digital Marketing Agency**
-- Developed websites such as **[OneBusinessClub](https://onebusinessclub.com)** and **[Glapso](https://www.glapso.com/)**
-- Created responsive interfaces with **HTML5, CSS3, Bootstrap, and jQuery**
-- Developed backend services using **PHP and Laravel**
-- Integrated APIs and configured SEO strategies
-
-#### More experience details on my **[LinkedIn](https://www.linkedin.com/in/chamod-randeni-bb5114109)**
-
----
-
-### 📚 Research & Projects:
-- **Vehicle Price Prediction Web Application** *(Python Flask, Tailwind CSS, MySQL)*
-  - GitHub Repo: [Vehicle Price Prediction](https://github.com/chamodrandeni/laabathena.lk-web-site-with-vehicle-price-prediction-web-application-based-on-machine-learning)
-
-- **Tour Booking System - Ceylon Adventure Travel** *(PHP Laravel 10, Bootstrap CSS, MySQL)*
-  - Live: [Ceylon Adventure Travel](https://ceylonadventuretravel.com)
-
----
 
 ### 📫 Connect with Me:
 <p align="center">
