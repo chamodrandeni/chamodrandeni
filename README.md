@@ -65,10 +65,6 @@ Tip: add a short GIF (assets/demo.gif) under each project for an instant visual 
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodrandeni&layout=compact&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamodrandeni&theme=dark" alt="streak" />
-</p>
-
 ---
 
 ## Open to
@@ -84,14 +80,6 @@ Tip: add a short GIF (assets/demo.gif) under each project for an instant visual 
   <a href="https://www.linkedin.com/in/chamod-randeni-bb5114109"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/chamodrandeni"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
-
----
-
-## Pro tips to make this README even better
-- Add short GIF demos for top 2 projects in /assets and link them above.
-- Replace placeholder project links with your real repo URLs and one-line outcomes (users, performance).
-- Pick a theme for the stats cards (light/dark) to match your profile aesthetics.
-- Add a small contribution or playbook section showing how others can run your projects locally.
 
 ---
 
